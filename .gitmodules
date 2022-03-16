@@ -1,0 +1,3 @@
+[submodule "intro/1_python_for_everybody"]
+	path = intro/1_python_for_everybody
+	url = https://github.com/librity/ossu_p4e
