@@ -1,3 +1,6 @@
 [submodule "intro/1_python_for_everybody"]
 	path = intro/1_python_for_everybody
 	url = https://github.com/librity/ossu_p4e
+[submodule "intro/2_computer_science_and_programming_in_python"]
+	path = intro/2_computer_science_and_programming_in_python
+	url = git@github.com:librity/ossu_mit_6.0001.git
