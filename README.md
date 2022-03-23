@@ -20,6 +20,23 @@
 - Intro
   - Introduction to Programming
     - [Python for Everybody](https://github.com/librity/ossu_p4e)
+  - Introduction to Computer Science
+    - [Introduction to Computer Science and Programming in Python](https://github.com/librity/ossu_mit_6.0001)
+- Core
+  - Core CS
+  - Core Math
+  - CS Tools
+  - Core systems
+  - Core theory
+  - Core security
+  - Core applications
+  - Core ethics
+- Advanced
+  - Advanced programming
+  - Advanced systems
+  - Advanced theory
+  - Advanced math
+- Final project
 
 ## Resources
 
